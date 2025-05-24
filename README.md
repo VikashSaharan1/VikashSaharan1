@@ -1,16 +1,21 @@
-## Hi there 👋
+## 👋 Hi, I'm Vikash Saharan  
+🔹 Sr. System/Solution Architect | 13+ Years Experience  
+🔹 Expert in .NET, Azure, AWS, Microservices, DevOps, Rest & Soap  Web API
+🔹 Ex-IGT USA | Veritech Info System Pvt Ltd  
 
-<!--
-**VikashSaharan1/VikashSaharan1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Tech Stack
+- 💻 .NET Core, C#, EF Core, Dapper, Web API
+- 💻  Node.js, Express, Sequelize ORM
+- 💻  Python, Panda, CV2, Excel,  FastAPI, 
+- ☁️ Azure (Functions, App Services, DevOps, Blob Storage, Azure Ad, Vnet), AWS(Lambda, Ec2, VPC, CDN, CloudFront, ECR, EKS, Code Commit, DynamoDB)
+- 🛠️ Docker, Kubernetes, Terraform, Jenkins, CI/CD Git Lab, Git Actions
+- 📦 PostgreSQL, MongoDB, CosMoDB, DynamoDB, SQL Server, MySQL
+- 🔧 Angular, React, JavaScript
+- 🛠️ Nginx, Apache, IIS Web Server
+- 🛠️ LLM with weavite Database in python microservices
 
-Here are some ideas to get you started:
+### 📫 Contact
+- LinkedIn: [vikash-saharan](https://linkedin.com/in/vikash-saharan). 
+- Email: vikashpkl@gmail.com 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
