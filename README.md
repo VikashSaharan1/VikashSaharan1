@@ -15,7 +15,7 @@
 - 🛠️ LLM with weavite Database in python microservices
 
 ### 📫 Contact
-- LinkedIn: [vikash-saharan](https://linkedin.com/in/vikash-saharan). 
+- LinkedIn: [Vikash Saharan](https://linkedin.com/in/vikash-saharan). 
 - Email: vikashpkl@gmail.com 
 
 
