@@ -16,6 +16,7 @@
 
 ### 📫 Contact
 - LinkedIn: [Vikash Saharan](https://linkedin.com/in/vikash-saharan). 
-- Email: vikashpkl@gmail.com 
+- Email: vikashpkl@gmail.com
+- Phone no: +91-7988506110
 
 
